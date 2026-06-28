@@ -1,5 +1,5 @@
 
- 👋Hi there, I'm Nataša
+ ## 👋Hi there, I'm Nataša
  
 Turning complex data into clear, decision-ready insights. I work at the intersection of sustainability, reporting, and analytics, with a focus on data quality, structure, and business impact.
 
